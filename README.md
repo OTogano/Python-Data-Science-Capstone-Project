@@ -13,3 +13,11 @@ timeStamp: String variable, YYYY-MM-DD HH:MM:SS
 twp: String variable, Township
 addr: String variable, Address
 e: String variable, Dummy variable (always 1)
+
+libraries: Numpy,Pandas,Matplotlib,Seaborn
+
+# 2. Finance Capstone Project
+For this capstone project fincancial data from various American banks will be used from the year 2008 to 2016
+Note that plots using plotly may not be displayed
+
+libraries: Numpy,Pandas,Pandas_datareader,Matplotlib,Seaborn,plotly,cufflinks
